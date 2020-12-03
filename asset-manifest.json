@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/app-asqi-demo/static/css/main.27de7915.chunk.css",
+    "main.js": "/app-asqi-demo/static/js/main.be6fc86d.chunk.js",
+    "main.js.map": "/app-asqi-demo/static/js/main.be6fc86d.chunk.js.map",
+    "runtime-main.js": "/app-asqi-demo/static/js/runtime-main.1174b489.js",
+    "runtime-main.js.map": "/app-asqi-demo/static/js/runtime-main.1174b489.js.map",
+    "static/js/2.1485e73b.chunk.js": "/app-asqi-demo/static/js/2.1485e73b.chunk.js",
+    "static/js/2.1485e73b.chunk.js.map": "/app-asqi-demo/static/js/2.1485e73b.chunk.js.map",
+    "static/js/3.2b01e12f.chunk.js": "/app-asqi-demo/static/js/3.2b01e12f.chunk.js",
+    "static/js/3.2b01e12f.chunk.js.map": "/app-asqi-demo/static/js/3.2b01e12f.chunk.js.map",
+    "index.html": "/app-asqi-demo/index.html",
+    "static/css/main.27de7915.chunk.css.map": "/app-asqi-demo/static/css/main.27de7915.chunk.css.map",
+    "static/js/2.1485e73b.chunk.js.LICENSE.txt": "/app-asqi-demo/static/js/2.1485e73b.chunk.js.LICENSE.txt",
+    "static/media/002_1@2x.26762026.png": "/app-asqi-demo/static/media/002_1@2x.26762026.png",
+    "static/media/Group 5852@2x.21f56484.png": "/app-asqi-demo/static/media/Group 5852@2x.21f56484.png",
+    "static/media/Group17.33a0689a.svg": "/app-asqi-demo/static/media/Group17.33a0689a.svg",
+    "static/media/Group5867.6a08f3a3.png": "/app-asqi-demo/static/media/Group5867.6a08f3a3.png",
+    "static/media/Group5961@2x.a481ce00.png": "/app-asqi-demo/static/media/Group5961@2x.a481ce00.png",
+    "static/media/Group5962@2x.23caf6de.png": "/app-asqi-demo/static/media/Group5962@2x.23caf6de.png",
+    "static/media/Group5963@2x.1014e390.png": "/app-asqi-demo/static/media/Group5963@2x.1014e390.png",
+    "static/media/Group5964@2x.c3f37ed4.png": "/app-asqi-demo/static/media/Group5964@2x.c3f37ed4.png",
+    "static/media/Group7.9369b3b2.png": "/app-asqi-demo/static/media/Group7.9369b3b2.png",
+    "static/media/LandingBg@2x.e02de74a.png": "/app-asqi-demo/static/media/LandingBg@2x.e02de74a.png",
+    "static/media/Rectangle5.29c2dd3b.svg": "/app-asqi-demo/static/media/Rectangle5.29c2dd3b.svg",
+    "static/media/facebook.5f1b35a1.svg": "/app-asqi-demo/static/media/facebook.5f1b35a1.svg",
+    "static/media/fbicon.e3fc0caf.svg": "/app-asqi-demo/static/media/fbicon.e3fc0caf.svg",
+    "static/media/funportfolio-chat.6bff98dd.png": "/app-asqi-demo/static/media/funportfolio-chat.6bff98dd.png",
+    "static/media/linkedicon.2793f8da.svg": "/app-asqi-demo/static/media/linkedicon.2793f8da.svg",
+    "static/media/linkedin.002032b9.svg": "/app-asqi-demo/static/media/linkedin.002032b9.svg",
+    "static/media/twitter.7126df13.svg": "/app-asqi-demo/static/media/twitter.7126df13.svg",
+    "static/media/twittericon.d079d4dc.svg": "/app-asqi-demo/static/media/twittericon.d079d4dc.svg",
+    "static/media/youtube-guide.72c22c30.png": "/app-asqi-demo/static/media/youtube-guide.72c22c30.png",
+    "static/media/youtubeicons.47dc47bb.svg": "/app-asqi-demo/static/media/youtubeicons.47dc47bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1174b489.js",
+    "static/js/2.1485e73b.chunk.js",
+    "static/css/main.27de7915.chunk.css",
+    "static/js/main.be6fc86d.chunk.js"
+  ]
+}

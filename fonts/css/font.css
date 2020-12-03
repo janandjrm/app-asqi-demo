@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Gilroy-Medium';
+    font-weight: 500;
+    font-style: normal;
+    src: url('./../app/Gilroy-Medium.otf');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-style: normal;
+    src: url('./../app/Gilroy-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Semibold';
+    font-weight: 600;
+    font-style: normal;
+    src: url('./../app/Gilroy-Semibold.otf');
+}
+
+/*Global Style*/
+.app-page-header{
+    font-family: 'Gilroy-Semibold';
+}
